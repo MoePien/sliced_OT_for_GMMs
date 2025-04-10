@@ -1,0 +1,1 @@
+# sliced_OT_for_GMMs
