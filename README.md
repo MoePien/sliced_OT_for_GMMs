@@ -63,7 +63,7 @@ print(f"MSW Distance: {MSW_distance.item():.4f}")
 
 ### Example of Quantization Result
 
-| Input | Reduced |
+| Density of Input 2d GMM | Density of Reduced 2d GMM |
 |:-----:|:-------:|
 | ![Input](Output_GMMs/0_quant/0.png) | ![Reduced](Output_GMMs/0_quant/Quantization.png) |
 
