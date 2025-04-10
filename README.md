@@ -61,7 +61,7 @@ print(f"MSW Distance: {MSW_distance.item():.4f}")
 - PerceptualGMMOT.ipynb: Use our sliced metrics for perceptual evaluation based on the framework presented in [Luzi et al., 2023](https://openaccess.thecvf.com/content/WACV2023/papers/Luzi_Evaluating_Generative_Networks_Using_Gaussian_Mixtures_of_Image_Features_WACV_2023_paper.pdf)
 - GMMBarycenter_GMMQuantization.ipynb: Gradient descent on GMMs for barycenter and component reduction
 
-### Example of Quantization Result
+### Example of Quantization
 
 | Density of Input 2d GMM | Density of Reduced 2d GMM |
 |:-----:|:-------:|
