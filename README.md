@@ -1,9 +1,9 @@
 # Sliced Wasserstein Distances for Gaussian Mixture Models
 
 This repository provides PyTorch-based implementations of sliced Wasserstein-type distances between Gaussian Mixture Models (GMMs). These metrics are useful for comparing distributions in high-dimensional spaces.
-Check out our preprint [(Piening and Beinert, 2025)](preprint) for more information and our main reference [(Delon and  Desolneux, 2021)](https://epubs.siam.org/doi/abs/10.1137/19M1301047) 
+Check out our preprint [(Piening and Beinert, 2025)](preprint) for more information! We would also like to point out our main reference [(Delon and  Desolneux, 2021)](https://epubs.siam.org/doi/abs/10.1137/19M1301047) 
 and the concurrent preprint [(Nguyen and Mueller, 2024)](https://arxiv.org/abs/2411.14674)
-for background information!
+for more information.
 
 ## Features
 
