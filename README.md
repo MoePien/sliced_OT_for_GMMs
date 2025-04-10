@@ -1,6 +1,7 @@
 # Sliced Wasserstein Distances for Gaussian Mixture Models
 
-This repository provides PyTorch-based implementations of sliced and projected Wasserstein-type distances between Gaussian Mixture Models (GMMs). These metrics are useful for comparing distributions in high-dimensional spaces. See our preprint [Preprint](preprint) for more information!
+This repository provides PyTorch-based implementations of sliced and projected Wasserstein-type distances between Gaussian Mixture Models (GMMs). These metrics are useful for comparing distributions in high-dimensional spaces.
+See our preprint [Preprint](preprint) and our main reference [(Delon and  Desolneux, 2021)](https://epubs.siam.org/doi/abs/10.1137/19M1301047) for more information!
 
 ## Features
 
@@ -54,6 +55,7 @@ print(f"MSW Distance: {MSW_distance.item():.4f}")
 
 ## Experiments
 
+- ComputationTime.ipynb: Measure computation time
 - ClusterDetection.ipynb: Detect ideal number of GMM cluster
 - GMMBarycenter_GMMQuantization.ipynb: Gradient descent on GMMs for barycenter and component reduction
 
