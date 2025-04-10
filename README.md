@@ -6,7 +6,7 @@ This repository provides PyTorch-based implementations of sliced and projected W
 
 - 📐 **MSW (Mean Sliced Wasserstein)**: (Partially) Sliced Wasserstein-type distance for high-dimensional GMMs.
 - 📏 **DSMW (Double-Sliced Mixture Wasserstein, also: SMSW)**: Fully Sliced Wasserstein-type distance for high-dimensional GMMs with many components.
-- ⚡ **Parallel & Vectorized Implementations**: Fast, differentiable versions of SMSW/DSMW using `torch.vmap`.
+- ⚡ **Parallel & Vectorized Implementations**: Fast, differentiable versions of DSMW (SMSW) and MSW
 - 🧮 **Support for Full and Diagonal Covariances**: Easily generate and manipulate random or structured GMMs.
 
 ## Contents
