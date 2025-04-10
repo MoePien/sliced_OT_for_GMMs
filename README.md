@@ -65,7 +65,7 @@ print(f"MSW Distance: {MSW_distance.item():.4f}")
 
 | Input | Reduced |
 |:-----:|:-------:|
-| ![Input](Output_GMMs/0_quant/0.png) | ![Reduced](Output_GMMs/0_quant/Quantized.png) |
+| ![Input](Output_GMMs/0_quant/0.png) | ![Reduced](Output_GMMs/0_quant/Quantization.png) |
 
 
 ## Notes
