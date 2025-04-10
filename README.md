@@ -7,8 +7,8 @@ for more information.
 
 ## Features
 
-- 📐 **MSW (Mean Sliced Wasserstein)**: (Partially) Sliced Wasserstein-type distance for high-dimensional GMMs.
-- 📏 **DSMW (Double-Sliced Mixture Wasserstein, also: SMSW)**: Fully Sliced Wasserstein-type distance for high-dimensional GMMs with many components.
+- 📐 **MSW (Mixture Sliced Wasserstein)**: (Partially) Sliced Wasserstein-type distance for high-dimensional GMMs.
+- 📏 **DSMW (Double Sliced Mixture Wasserstein) or SMSW (Sliced Mixture Sliced Wasserstein)**: Fully Sliced Wasserstein-type distance for high-dimensional GMMs with many components.
 - ⚡ **Parallel & Vectorized Implementations**: Fast, differentiable versions of DSMW (SMSW) and MSW
 - 🧮 **Support for Full and Diagonal Covariances**: Easily generate and manipulate random or structured GMMs.
 
