@@ -41,7 +41,7 @@ import torch
 import sliced_mw as smw
 import gmm_utils as GMM
 
-# Define two simple 2D GMMs with 10 components with diagonal covariances
+# Define two simple 2D GMMs with 10 components
 K = 10
 D = 2
 gmm1 = GMM.RandomGaussianMixtureModel(K, D, device="cpu")
