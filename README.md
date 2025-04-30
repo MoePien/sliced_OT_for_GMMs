@@ -78,10 +78,10 @@ print(f"MSW Distance: {MSW_distance.item():.4f}")
 ## Citation
 
 ```bibtex
-@article{piening2025sliced,
-  title={XXX},
+@article{piening2025slicing,
+  title={Slicing the Gaussian Mixture Wasserstein Distance},
   author={Piening, Moritz and Beinert, Robert},
-  journal={XXX},
+  journal={arXiv preprint arXiv:2504.08544},
   year={2025}
 }
 ```
